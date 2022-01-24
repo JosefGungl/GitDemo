@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 Hello World, git is fun!
 Hola Mundo!
-=======
+This is new information...
 Hello World!
 Hola Mundo, git es divertido!
 >>>>>>> spanish
